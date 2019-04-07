@@ -1,2 +1,2 @@
 # MushroomClassifier_NaiveBayes-
-Naive Bayes Classification Model with Naive Bayes
+Naive Bayes Classification Model for classifying Mushrooms
